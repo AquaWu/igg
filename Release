@@ -1,0 +1,10 @@
+Origin: iGG
+Label: iGG source
+Suite: stable 
+Version: 1.0
+Codename: iGG
+Architectures: iphoneos-arm
+Components: main
+Description: iGG source
+MD5Sum:
+ b182af9054d04ac0210967ba2226ce2d 581046 iGG.7.0.1.deb
