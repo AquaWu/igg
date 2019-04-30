@@ -1,7 +1,7 @@
 Origin: iGG
 Label: iGG source
 Suite: stable 
-Version: 8.0
+Version: 12.0.1
 Codename: iGG
 Architectures: iphoneos-arm
 Components: main
