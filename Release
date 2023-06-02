@@ -3,7 +3,6 @@ Label: iGG source
 Suite: stable 
 Version: 15.0
 Codename: iGG
-Architecture: all
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: iGG source
-
